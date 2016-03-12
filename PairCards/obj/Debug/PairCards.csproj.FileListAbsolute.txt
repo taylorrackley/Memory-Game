@@ -1,0 +1,9 @@
+F:\PairCards\PairCards\PairCards\bin\Debug\PairCards.exe.config
+F:\PairCards\PairCards\PairCards\bin\Debug\PairCards.exe
+F:\PairCards\PairCards\PairCards\bin\Debug\PairCards.pdb
+F:\PairCards\PairCards\PairCards\obj\Debug\PairCards.csprojResolveAssemblyReference.cache
+F:\PairCards\PairCards\PairCards\obj\Debug\PairCards.Form1.resources
+F:\PairCards\PairCards\PairCards\obj\Debug\PairCards.Properties.Resources.resources
+F:\PairCards\PairCards\PairCards\obj\Debug\PairCards.csproj.GenerateResource.Cache
+F:\PairCards\PairCards\PairCards\obj\Debug\PairCards.exe
+F:\PairCards\PairCards\PairCards\obj\Debug\PairCards.pdb
